@@ -1,0 +1,37 @@
+{
+  "name": "whothat.dk",
+  "version": "1.0.0",
+  "description": "\"# whothat.dk\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whothatbenjamin/whothat.dk.git"
+  },
+  "author": "Benjamin Leonhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whothatbenjamin/whothat.dk/issues"
+  },
+  "homepage": "https://github.com/whothatbenjamin/whothat.dk#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.41",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "crlab-gulp-combine-media-queries": "^1.0.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8",
+    "lost": "^8.2.1",
+    "postcss-cssnext": "^3.1.0",
+    "rucksack-css": "^1.0.2",
+    "vinyl-ftp": "^0.6.1"
+  }
+}
